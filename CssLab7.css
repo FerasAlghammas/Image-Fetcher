@@ -1,0 +1,35 @@
+img{
+    border: 3px solid black;
+}
+
+#Content{
+    display: flex;
+}
+
+button{
+    width: 250px;
+    height: 35px;
+    margin-left: 10%;
+    padding: 3px;
+    margin-top: 30px;
+    
+}
+
+button:last-child{
+    width: 300px;
+}
+
+#Content2{
+    border: 3px solid black;
+    width: 2000px;
+
+}
+
+
+
+#SearchBar{
+    width: 350px;
+    height: 40px;
+    margin-top: 3%;
+    margin-left: 35%;
+}
